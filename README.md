@@ -1,1 +1,1 @@
-# FYP-AI-driven-personal-Finance-Management-System
+# FYP-AI-driven-Personal-Finance-Management-System
